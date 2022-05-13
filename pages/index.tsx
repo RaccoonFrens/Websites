@@ -1,10 +1,10 @@
 import type { NextPage } from "next";
 import { useState, useEffect } from "react";
-import About from "../components/About/About";
-import Timeline from "../components/Timeline/Timeline";
-import Loader from "../components/Loader";
-import Hero from "../components/Hero";
-import Founders from "../components/Founders/Founders";
+import About from "../components/about/about";
+import Timeline from "../components/timeline/timeline";
+import Loader from "../components/loader";
+import Hero from "../components/hero";
+import Founders from "../components/founders/founders";
 
 const Home: NextPage = () => {
   // Home state

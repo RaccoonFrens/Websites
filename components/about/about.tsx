@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { Slide } from "react-awesome-reveal";
-import useWindowSize from "../../hooks/useWindowDimensions";
+import useWindowSize from "../../hooks/usewindowdimensions";
 
 function About() {
   const { width } = useWindowSize();
@@ -47,7 +47,7 @@ function About() {
             <div className="video-container">
               <video autoPlay muted loop className="video">
                 <source
-                  src="/assets/RaccoonFrensCollage.mp4"
+                  src="/assets/raccoonfrenscollage.mp4"
                   type="video/mp4"
                 />
               </video>
@@ -56,7 +56,7 @@ function About() {
             // Cycling photos - GIF
             <div className="video-container">
               <img
-                src="/assets/RaccoonFrensCollage.gif"
+                src="/assets/raccoonfrenscollage.gif"
                 alt="Raccoon Frens cycling NFTs"
                 className="gif"
               />

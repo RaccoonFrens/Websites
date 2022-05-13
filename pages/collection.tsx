@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import type { NextPage } from "next";
-import Loader from "../components/Loader";
-import CollectionHero from "../components/Collection/CollectionHero";
+import Loader from "../components/loader";
+import CollectionHero from "../components/collection/collectionhero";
 
 const Collection: NextPage = () => {
   // Home state

@@ -10,14 +10,14 @@
   font-family: "Goldman";
   font-style: normal;
   font-weight: 400;
-  src: url("/assets/fonts/Goldman-Regular.ttf") format("truetype");
+  src: url("/assets/fonts/goldman-regular.ttf") format("truetype");
 }
 
 @font-face {
   font-family: "Goldman";
   font-style: normal;
   font-weight: 700;
-  src: url("/assets/fonts/Goldman-Bold.ttf") format("truetype");
+  src: url("/assets/fonts/goldman-bold.ttf") format("truetype");
 }
 
 /* GLOBAL STYLES */

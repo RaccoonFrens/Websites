@@ -1,6 +1,6 @@
 import { useMenuContext } from "../contexts/menu";
 import Link from "next/link";
-import Icon from "./Icon";
+import Icon from "./icon";
 
 function Menu() {
   const { isOpen, handleClose } = useMenuContext();

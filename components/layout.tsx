@@ -2,9 +2,9 @@ import { ReactNode } from "react";
 import { useRouter } from "next/router";
 import Head from "next/head";
 import Script from "next/script";
-import Navigation from "./Navigation";
-import Footer from "./Footer";
-import Menu from "./Menu";
+import Navigation from "./navigation";
+import Footer from "./footer";
+import Menu from "./menu";
 
 export default function Layout({ children }: { children: ReactNode }) {
   const { pathname } = useRouter();

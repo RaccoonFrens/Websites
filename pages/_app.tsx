@@ -1,19 +1,19 @@
 import "normalize.css/normalize.css";
 import "/styles/globals.css";
-import "/styles/Menu.css";
-import "/styles/Loader.css";
-import "/styles/Background.css";
-import "/styles/Navigation.css";
-import "/styles/Index.css";
-import "/styles/Hero.css";
-import "/styles/Icon.css";
-import "/styles/About.css";
-import "/styles/Timeline.css";
-import "/styles/Founders.css";
-import "/styles/Footer.css";
-import "/styles/Social.css";
+import "/styles/menu.css";
+import "/styles/loader.css";
+import "/styles/background.css";
+import "/styles/navigation.css";
+import "/styles/index.css";
+import "/styles/hero.css";
+import "/styles/icon.css";
+import "/styles/about.css";
+import "/styles/timeline.css";
+import "/styles/founders.css";
+import "/styles/footer.css";
+import "/styles/social.css";
 import { MenuProvider } from "../contexts/menu";
-import Layout from "../components/Layout";
+import Layout from "../components/layout";
 
 import type { AppProps } from "next/app";
 

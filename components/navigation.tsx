@@ -1,6 +1,6 @@
 import Link from "next/link";
-import Icon from "./Icon";
-import Social from "./Social";
+import Icon from "./icon";
+import Social from "./social";
 import { useMenuContext } from "../contexts/menu";
 
 function Navigation() {

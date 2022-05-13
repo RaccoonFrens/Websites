@@ -1,4 +1,4 @@
-import Background from "../Background";
+import Background from "../background";
 import { Zoom } from "react-awesome-reveal";
 
 function CollectionHero() {
