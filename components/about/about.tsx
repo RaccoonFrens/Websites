@@ -17,11 +17,12 @@ function About() {
           <Slide triggerOnce direction="left">
             <div className="left-container">
               <p className="description">
-                RaccoonFrens is a collection of 4444 randomly generated digital
-                raccoons rummaging through the Cosmo’s ecosystem. The collection
-                has a strong focus on community and building value from the
-                ground up. Post-mint all decisions will be voted on by the DAO
-                in order to deliver value that best represents the community.
+                Raccoon Frens is a collection of 4444 randomly generated 
+                digital raccoons rummaging through the Cosmos ecosystem. 
+                The collection has a strong focus on community and building 
+                value from the ground up. Post-mint all decisions will be 
+                voted on by the DAO in order to deliver value that best 
+                represents the community.
               </p>
 
               {/* Call to action buttons */}
